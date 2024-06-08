@@ -1,0 +1,24 @@
+Small typos in the Somap
+
+[E R Berlekamp, J H Conway, R K Guy, Winning Ways, pages 912--913]
+
+In honor of Richard Guy's 100 birthday, I've checked the Somap by computer,
+and noticed a small number of glitches:
+
+The edge from RL1b to RL1a should be labeled "wg".
+The edge from RL2n to RL2l should be labeled "wg".
+The edge from RL3d to WL2s should be labeled "wr".
+The edge from O1k to O1f should be labeled "wy".
+The edge from B3k to B6a should be labeled "ow".
+The edge from R3k to R6a should be labeled "ow".
+The edge from B6a to B6b should be labeled "wy", not "ow".
+The edge from R6a to R6b should be labeled "wy", not "ow".
+
+One should note that the dotted line from B3h to B3f does not pass through B4d.
+
+It's interesting that B5f is the unique vertex of degree 7.
+
+-- Don Knuth, October 2016
+
+P.S. Richard initiated the Somap when he was living in Singapore, after
+having found 234 distinct solutions. See Nabla 7 (December 1960), 151.
